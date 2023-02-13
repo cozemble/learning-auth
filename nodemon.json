@@ -1,0 +1,9 @@
+{
+  "watch": [
+    "src/",
+    "package.json",
+    "tsconfig.json",
+    "migrations/*"
+  ],
+  "ext": "ts,sql"
+}
